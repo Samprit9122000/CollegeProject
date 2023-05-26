@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.cus-row
+{
+  height: 100px;
+}
+
+
+.card1{
+	border: 5px solid #22c1c3;
+	max-width: 450px;
+	border-radius: 15px;
+	margin: 150px 0 150px;
+	padding: 35px;
+	padding-bottom: 20px!important;
+}
+.heading1{
+	color: #C1C1C1;
+	font-size: 14px;
+	font-weight: 500;
+}
+.img1{
+	transform: translate(160px,-10px);
+}
+.img1:hover{
+    cursor: pointer;
+}
+.text-warning1{
+	font-size: 12px;
+	font-weight: 500;
+	color: #edb537!important;
+}
+#cno1{
+	transform: translateY(-10px);
+}
+.input1{
+	border-bottom: 1.5px solid #E8E5D2!important;
+	font-weight: bold;
+	border-radius: 0;
+	border: 0;
+
+}
+.input1:focus{
+	border: 0;
+	outline: 0;
+}
+.col-sm-5{
+	padding-left: 90px;
+}
